@@ -107,6 +107,11 @@ nav {
     margin: 0 auto;
     text-align: center;
     width: 1000px;
+    margin-top: 20px;
+}
+
+.section-map {
+    margin-bottom: 20px;
 }
 
 .section-map__title {
@@ -118,4 +123,16 @@ nav {
 iframe {
     display: block;
     margin: 0 auto;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #999999;
+    width: 1024px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+footer {
+    height: 80px;
 }
